@@ -1,0 +1,26 @@
+baseURL: "https://adityatelange.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Artengine
+paginate: 5
+theme: PaperMod
+
+params:
+    homeInfoParams:
+        Title: "Mimosa"
+        Content: >
+          Vous vous trouvez à la racine d'un projet de recherche. Errer, contempler et tisser seront les préceptes de ce voyage.
+menu:
+  main:
+    - identifier: Categories
+      name: Categories
+      url: /categories/
+      weight: 10
+
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 9
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
