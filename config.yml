@@ -7,7 +7,7 @@ params:
     homeInfoParams:
         Title: "Mimosa"
         Content: >
-          Vous vous trouvez à la racine d'un projet de recherche. Errer, contempler et tisser seront les préceptes de ce voyage.
+          Vous vous trouvez à la racine d'un projet de recherche. Errer, rencontrer, contempler et tisser seront les préceptes de ce voyage.
 menu:
   main:
     - identifier: Categories
