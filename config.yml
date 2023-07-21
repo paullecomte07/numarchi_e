@@ -10,10 +10,6 @@ params:
           Vous vous trouvez à la racine d'un projet de recherche. Errer, rencontrer, contempler et tisser seront les préceptes de ce voyage.
 menu:
   main:
-    - identifier: Categories
-      name: Categories
-      url: /categories/
-      weight: 10
 
     - identifier: About
       name: About
