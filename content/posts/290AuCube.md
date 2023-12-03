@@ -8,16 +8,35 @@ Projet où l'on travaille concrétement l'espace avec un volume simple: **le cub
   
 Ce projet, ludique et poétique, se veut évolutif.
 
-# Premier tableau : La génèse
+# Premier tableau : la génèse
 
 ## Premières cellules
-Erigeons notre premier volume dans un patio cubique de 290 centimètres d'arrête. A la manière d'un organisme mutlicellulaire, le cube final se compose petit à petit. Aux usagers du patio de lui donner vie par leur présence.
-
+Erigeons notre premier volume dans un patio cubique de 290 centimètres d'arrête. A la manière d'un organisme mutlicellulaire, le cube final se compose petit à petit. Pour le moment, les premières cellules naissantes évoluent seules dans cet espace. 
 ![cellule](/posts/minecraft_cell.png)
+
+
 ## Croissance libre
 (A vivre)
-## Organisme objet
+## L'entité supra ou le meuble organique
 Fini, composé de plusieurs cubes, le volume s'impose, unifié, au centre de la pièce. Il n'est habitable que par les interstices de la structure totale.
 ![premier cube](/posts/cube1.jpg)
 
 
+# Deuxième tableau : l'existence créee ou affirme les fonctions
+
+## Exister à l'Homme
+
+Bien que pensé pour un certain usage par le concepteur, l'objet trouve concécration dans son utilisation réelle. La véritable fonction ( notion de vérité Kant? (sophia)) de l'objet n'est définie qu'après l'existence de ce même objet. C'est pour cette raison que j'ai décidé de travailler avec un supra objet qui n'a a priori aucune fonction. La définition de cette fonction commence à partir du moment où la première pièce est détachée du cube. 
+
+La fonction réelle d'un objet est tellement complexe qu'il parait impossible de la définir précisément si ce n'est pour soi et après un usage multiple. L'important est que le fonction représenté l'usagé se superposé avec le fonction ultime de l'objet.
+
+## L'usage découvre la fonction
+
+« La forme suit la fonction » d
+
+## Expérience
+
+
+# Troisième tableau : et ensuite ?
+
+## 
