@@ -2,6 +2,7 @@ baseURL: "https://numerachie.github.io/" # if your site is in 'https', then make
 title: numarchi.e
 paginate: 5
 theme: PaperMod
+canonifyURLs: true
 
 params:
     homeInfoParams:
