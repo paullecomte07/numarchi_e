@@ -12,14 +12,14 @@ Ce projet, ludique et poétique, se veut évolutif.
 
 ## Premières cellules
 Erigeons notre premier volume dans un patio cubique de 290 centimètres d'arrête. A la manière d'un organisme mutlicellulaire, le cube final se compose petit à petit. Pour le moment, les premières cellules naissantes évoluent seules dans cet espace. 
-![cellule](/posts/minecraft_cell.png)
+![cellule](/minecraft_cell.png)
 
 
 ## Croissance libre
 (A vivre)
 ## L'entité supra ou le meuble organique
 Fini, composé de plusieurs cubes, le volume s'impose, unifié, au centre de la pièce. Il n'est habitable que par les interstices de la structure totale.
-![premier cube](/posts/cube1.jpg)
+![premier cube](/cube1.jpg)
 
 
 # Deuxième tableau : l'existence créee ou affirme les fonctions
