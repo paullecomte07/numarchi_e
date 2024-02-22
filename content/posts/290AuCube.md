@@ -11,7 +11,8 @@ Ce projet, ludique et poétique, se veut évolutif.
 # Premier tableau : la génèse
 
 ## Premières cellules
-Erigeons notre premier volume dans un patio cubique de 290 centimètres d'arrête. A la manière d'un organisme mutlicellulaire, le cube final se compose petit à petit. Pour le moment, les premières cellules naissantes évoluent seules dans cet espace. 
+Notre terrain d'expérimentation est un patio cubique de 290 centimètres d'arrête. Une première cellule apparaît: de forme géométrique cubique, non vivante, elle est appelée de la sorte pour son caractère unitaire, structurant et fonctionel qu'elle joue en présence d'autres cellules. D'ailleurs, deux puis trois nouvelles entitées ont apparus. Immobiles et disposées irréguliérement entre elles, la colonie grandit et se rassemble pour petit à petit former une seule forme, unique: un cube.
+
 ![cellule](/minecraft_cell.png)
 
 
@@ -32,7 +33,7 @@ La fonction réelle d'un objet est tellement complexe qu'il parait impossible de
 
 ## L'usage découvre la fonction
 
-« La forme suit la fonction » d
+« La forme suit la fonction ». Comment la forme suit la fonction. Parrallele avec les méthodes de développement scrum.? l'idée est d'approcher cette fonction au plus pres ?
 
 ## Expérience
 
